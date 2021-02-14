@@ -4,10 +4,11 @@ These notes :memo: in this repository is comprehensive and written with the goal
 
 - Good luck & enjoy studying! :coffee: **Contributions of any kind are welcome! :sparkles:**
 
+![GCP](https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/cloud/images/cloud-logo.svg)
 ## **Google Cloud Platform** 
 [GCP](https://cloud.google.com/) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions. It build apps faster, make smarter business decisions, and connect people anywhere
 
-![GCP](https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/cloud/images/cloud-logo.svg) is one of the the market leader of the cloud world.
+It is one of the the market leader of the cloud world.
 - 24 cloud regions, 73 zones & 144 network edge locations.
 - AVAILABLE IN 200+ countries & territories
 
