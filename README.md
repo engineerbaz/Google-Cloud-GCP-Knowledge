@@ -7,7 +7,7 @@ These notes :memo: in this repository is comprehensive and written with the goal
 -  #### Contributions of any kind are welcome! :sparkles:
 
 
-**Google Cloud Platform** ([GCP](https://cloud.google.com/)) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions.
+**Google Cloud Platform** ([GCP](https://cloud.google.com/)) is a collection of various Cloud Computing services and applications that offers flexible, reliable, easy-to-use, and cost-effective solutions. It build apps faster, make smarter business decisions, and connect people anywhere
 
 GCP is one of the the market leader of the cloud world.
 
