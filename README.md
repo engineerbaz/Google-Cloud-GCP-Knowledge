@@ -25,8 +25,11 @@ It is one of the the market leader of the cloud world.
   - [GCP Introduction & Certification ]()
   - [Cloud Computing Basics, Types & Categories](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
   - [Regions & Avalailblity Zones]()
+  - 
 - GCP Services 
   - [GCP Services]() 
+- Virtual Private Cloud
+  - [VPC]() 
 
 
 
