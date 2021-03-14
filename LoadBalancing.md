@@ -8,3 +8,9 @@
   - TCP/SSL
   - UDP
 - Over a million 
+- Seamless AutoScaling
+- Internal LoadBalancing
+- HTTP 
+- TCP/SSL 
+- Cloud CDN 
+- stackdriver logging 
