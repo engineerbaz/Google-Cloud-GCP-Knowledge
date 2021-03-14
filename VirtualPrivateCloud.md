@@ -21,30 +21,30 @@ Service like (IoT, AI) to communicate
 - 5 second interval 
 
 ## FEature
-Cloud Router
-For Dynamic routing, CR is required for BGP, VPN
-VPN
-Over IPSec
-Firewall
-Global restricted Firewall
-Tag based
-VPC Peering
-When private communication the same or different organization without BW or SPOF
-Shared VPC
-Shared across several organization 
-Routes
-VPN Flow Log
+- Cloud Router
+  - For Dynamic routing, CR is required for BGP, VPN
+- VPN
+  - Over IPSec
+- Firewall
+  - Global restricted Firewall
+  - Tag based
+- VPC Peering
+  - When private communication the same or different organization without BW or SPOF
+- Shared VPC
+  - Shared across several organization 
+- Routes
+- VPN Flow Log
 
 ## Uses of VPC
-Multi tier application
-Connecting GCP hosted or externally hosted Database 
-DR
+- Multi tier application
+- Connecting GCP hosted or externally hosted Database 
+- DR
 
 ## VPC Pricing
-Ingress & Egress
-VPN
-IP address 
-Networking telemetry 
+    Ingress & Egress
+    VPN
+    IP address 
+    Networking telemetry 
 
 
 
