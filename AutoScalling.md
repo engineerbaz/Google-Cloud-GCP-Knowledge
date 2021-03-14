@@ -30,4 +30,15 @@ Canary upgrade,rolling restart & replace
 - Max Surge = 
   - Temporary Allowable value of instance above your required values
   - If work with Max instance number or % if instance group has 10 or more than that
+  - OverProvison
+- MaxUnavailable
+  - number of unavailable instance 
+  - no additional cost 
 
+### Estimated 
+- CE recommends that provision enough instances, if all of the instances in any one zone are unavailable
+- recommended additional VMs is inversly propational to the number of zone where your managed IG is located.
+| number of Zones | additional VM | recommended VMs |
+| 2 | +100% | 200% |
+| 3 | +50% | 150% |
+| 4 | +33% | 133% |
