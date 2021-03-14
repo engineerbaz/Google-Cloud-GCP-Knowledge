@@ -39,6 +39,7 @@ Canary upgrade,rolling restart & replace
 - CE recommends that provision enough instances, if all of the instances in any one zone are unavailable
 - recommended additional VMs is inversly propational to the number of zone where your managed IG is located.
 | number of Zones | additional VM | recommended VMs |
-| 2 | +100% | 200% |
-| 3 | +50% | 150% |
-| 4 | +33% | 133% |
+| :-------------- | :------------ | :-------------- |
+| 2               | +100%         | 200%            |
+| 3               | +50%          | 150%            |
+| 4               | +33%          | 133%            |
