@@ -41,10 +41,10 @@ Service like (IoT, AI) to communicate
 - DR
 
 ## VPC Pricing
-    Ingress & Egress
-    VPN
-    IP address 
-    Networking telemetry 
+- Ingress & Egress
+- VPN
+- IP address 
+- Networking telemetry 
 
 
 
