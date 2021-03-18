@@ -1,8 +1,9 @@
 # LoadBalancing
 - World wide auto scalling & LoadBalancing
-- scale application 
+- scale application on GCE from Zero to full throttle wih GC-LB 
+- Distribute LoadBalanced CE resource in single or multiple regions close to users and to meet HA requirement
 - CLB can put resources behind a single anycast IP & scale resources up or down with intelligent AutoScaling
-- Global LoadBalancing with Singel AnyCast IP 
+- Global LoadBalancing with integrated with Google Cloud CDN for optimal app and Content delivery.
 - Software definded 
   - HTTP/HTTPs
   - TCP/SSL
