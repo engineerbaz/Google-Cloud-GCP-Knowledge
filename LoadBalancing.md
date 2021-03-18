@@ -4,6 +4,7 @@
 - Distribute LoadBalanced CE resource in single or multiple regions close to users and to meet HA requirement
 - CLB can put resources behind a single anycast IP & scale resources up or down with intelligent AutoScaling
 - Global LoadBalancing with integrated with Google Cloud CDN for optimal app and Content delivery.
+- 
 - Software definded 
   - HTTP/HTTPs
   - TCP/SSL
