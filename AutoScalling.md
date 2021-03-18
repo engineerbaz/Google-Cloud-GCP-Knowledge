@@ -1,6 +1,8 @@
 # AutoScaling
-
-For regions that contains more than 3 zone that regional managed instance group willl choose 3 zone to create instance in 
+- ASG in GCP is a feature of the managed instance group.
+- A managed instance group is a pool of homogenous instance, created from a common instance template.
+- For regions that contains more than 3 zone that regional managed instance group willl choose 3 zone to create instance in. (supported where IPAM policy is specified)
+- ASG can be created for both single zone ( with multi zone support) and multiple zone (regional)
 
 ## Instance template
 - Machine Type, Boot disk image or container image, zone, labels and instance properties
