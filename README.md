@@ -30,8 +30,10 @@ It is one of the the market leader of the cloud world.
   - [GCP Services]() 
 - Virtual Private Cloud 
   - [VPC](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/VirtualPrivateCloud.md) 
--  AutoS-Scaling
+- Auto-Scaling
   - [ASG](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/AutoScalling.md) 
+- LoadBalancing
+  - [LB](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
 
 
 
