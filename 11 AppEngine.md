@@ -58,3 +58,22 @@
 - Runs in Docker container that includes a Custom runtime or source code written in other programming language.
 - Depends of framework  taht include native code 
 - Access resources or services of GCP Projectresides in GCE network 
+
+
+### Commands
+- Deploy App in AppEngine
+```
+gcloud app deploy
+```
+
+- Deploy App browse
+```
+gcloud app browse -s [name]
+```
+
+
+
+- Traffic Splitting
+```
+gcloud app services set-traffic default --splits 20210327t001232=20,20210326t235955=80 --split-by ip
+```
