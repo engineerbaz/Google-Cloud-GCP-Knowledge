@@ -1,6 +1,6 @@
 ![GCP](https://www.gstatic.com/devrel-devsite/prod/vb1c70bbe2f68b543db3deb1075af42e62f8f21e5fc703b8398dc6b9860f1711f/cloud/images/cloud-logo.svg)
 
-### Welcome to GCP (Gooogle Cloud Platform) Knowlege!!!
+### Welcome to GCP (Gooogle Cloud Platform) Knowlege!!! 
 
 These notes :memo: in this repository is comprehensive and written with the goal of knowledge sharing of GCP Cloud :cloud: ⛈️
 
