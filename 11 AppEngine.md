@@ -1,5 +1,5 @@
 # App Engine 
-- Full managed serverless application platform
+- Fully managed serverless application platform
 - Can scale app seamlessly with zero serer management & zero CM
 - A developer can focus on more productivity and agile by supporting popular development
 - Youtube & Gmail
