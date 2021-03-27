@@ -10,4 +10,8 @@
 - Fast Anycast Name server
   - Global IP from redundanct locations around the world.
 - Scalability & availability 
-- 
+- Stackdriver logging
+- Manage through API & Web UI 
+- Cost 
+  - First 1 billion queries = $ 0.4 per million per month
+  -Oueries over  1 billion queries = $ 0.2 per million per month
