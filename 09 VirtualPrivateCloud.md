@@ -1,5 +1,5 @@
 # VPC
-
+- Virtual Privaet Cloud
 - Managing Networking functionality for cloud platform
 - Private space within GCP
 - Flexibility  to control how workload connect regionally or on-prem
