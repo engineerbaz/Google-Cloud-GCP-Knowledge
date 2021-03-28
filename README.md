@@ -16,7 +16,7 @@ It is one of the the market leader of the cloud world.
 
 ![GCP Footprint](https://lh3.googleusercontent.com/oL3F456sm3dLr_60gxpg6EVi-zH90CHR3JEn1WueNlLF4h3Ie9BJJ3KCCIu-fVoyh-TDYEvM8v3EsQ=e14-rw-lo-sc0xffffff-h600)
 
-
+ 
 # GCP Cloud 
 
 ## **Table of Content**
