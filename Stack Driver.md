@@ -17,4 +17,14 @@
 - Tracing
   - provides latency sampling and Reporting for Google app engine , include per-URL stats and latency distribution
 - uptime monitoring
+  - provides endpoint checks to web app and other internet-accessible service
+  - user can configure 
 - Dashboard
+- Rapid discovery
+  - discover Cloud resource and app service automatically based on GCP & AWS 
+- Loggging
+  - provides logging , filter, debugging from your Cloud and open source
+- Integration 
+- Profiling
+  - providing continous Profiling of resource comsumption in production application helping u identify and eliminate potential perf issues
+- 
