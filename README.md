@@ -21,19 +21,39 @@ It is one of the the market leader of the cloud world.
 
 ## **Table of Content**
 
-- Google Cloud
+### Google Cloud
   - [GCP Introduction & Certification ]()
   - [Cloud Computing Basics, Types & Categories](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
   - [Regions & Avalailblity Zones]()
   - [Projects & Billing]()
 - GCP Services 
   - [GCP Services]() 
+- Project & Billing
+  - [05 - Project & Billing](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/05%20Project%26Billing.md)
+
 - Virtual Private Cloud 
-  - [VPC](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/VirtualPrivateCloud.md) 
+  - [09 - VPC](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/09%20VirtualPrivateCloud.md) 
+
+- Google App Engine 
+  - [11 - App Engine](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/11%20AppEngine.md)
+
+- Google Storage
+  - [13 - Storage](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/13%20Storage.md)
+
 - Auto-Scaling
-  - [ASG](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/AutoScalling.md) 
+  - [15 - ASG](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/15%20AutoScalling.md) 
 - LoadBalancing
   - [LB](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
+
+
+
+- Cloud Content Delivery Network
+  - [20 - CDN](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
+
+
+
+- Cloud Domain Name Service DNS
+  - [24 - DNS](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
 
 
 
