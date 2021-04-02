@@ -41,11 +41,12 @@ It is one of the the market leader of the cloud world.
 
 ### Google Storage
   - [13 - Storage](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/13%20Storage.md)
-
+### Google StackDriver / Operations
+  - [14 - Operations](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/14%20Stack%20Driver.md)
 ### Auto-Scaling
   - [15 - ASG](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/15%20AutoScalling.md) 
 ### LoadBalancing
-  - [LB](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
+  - [16 - LB](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
 
 
 
