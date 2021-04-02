@@ -50,7 +50,7 @@ It is one of the the market leader of the cloud world.
 
 
 ### Cloud Content Delivery Network
-  - [20 - CDN](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
+  - [20 - CDN](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/20%20Cloud%20CDN.md) 
 
 
 
