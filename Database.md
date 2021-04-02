@@ -1,5 +1,18 @@
 # Database
-- Only few Database available
+- Only few Database available (less than 5)
+- Migrate , manage and modernize data with secure, reliable and higly available databases
+
+### Why choose GCP for database
+- flexible performance & scale 
+- Broad Open source compatiblity
+- Do more with data using ML/AI Integration
+
+## Types of database supported
+
+| Relational | NoSQL/Nonrelational | 
+| :--------- | :------------------ | 
+| CloudSpanner  : Cloud SQL | Cloud BigTable : Cloud Firestore : Firebase Realtime database : Cloud Memstore |
+
 - Relational
   - CloudSpanner
   - CLoud SQL
@@ -11,7 +24,7 @@
 
 ## SQL
 - Fully compatible Relational database in the Cloud
-- connects with any app built for MySQL
+- connects with any app built for MySQL, PostgreSQL & SQL Server
 - Easy Integration with K8s, BigQuery and Compute Engine 
 - Backup and security
 
