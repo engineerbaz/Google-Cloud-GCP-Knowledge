@@ -55,7 +55,7 @@ It is one of the the market leader of the cloud world.
 
 
 ### Cloud Domain Name Service DNS
-  - [24 - DNS](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/LoadBalancing.md) 
+  - [24 - DNS](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/24%20DNS.md) 
 
 
 
