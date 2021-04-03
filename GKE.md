@@ -25,3 +25,26 @@
 - Hybrid Networking 
 - Security & Compliance
   - HIPAA & PCI DSS 3.1
+- Auto Scale
+- Auto Upgrade
+- Auto 
+- Stateful application support
+  - 12 factor 
+  - PV 
+- Docker support
+- Fully managed
+- OS built for containers
+- Private container Registery
+- Fast Consistent 
+- work load probability
+- GPU Support BETA
+
+
+## GKE Component
+- Node
+- NOde Pool
+- cluster
+- Nonde Image 
+- Pod/container
+
+
