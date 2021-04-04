@@ -13,24 +13,56 @@
 
     ![Relationship Project & organization](https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png)
 
+## Billing Alert
+- Message with certain amount of billed
+- Can be on project or plan
 
-Billing Alert
-Message with certain amount of billed
-Can be on project or plan
+### Billing Account
+- Who will pay for 
+- Access control to biling account is established by cloud IAM roles
+- BA can be linked to one or more project 
+## Billing Account TYpe
+1. Self Serve 
+   1. When billed , it will be charged
+   2. cost are charged automatically
+   3. by Credit or debit card
+2. Invoiced 
+   1. After month end 
+   2. Wire transfer or check 
+   3. Invoices are mailed.
 
-Billing Account
-Who will pay for 
-BA can be linked to one or more project 
-## BA TYpe
 
-Self Serve 
-When billed , it will be charged
-Invoiced 
-After month 
 ## Billing Account Charging Cycle 
-Monthly Billing 
-Threshold Billing 
-Cost are charged when your account has accured a specific amount 
+- Monthly Billing 
+  - cost are charged on regular Monthly cycle
+- Threshold Billing 
+  - Cost are charged when your account has accured a specific amount 
+- Invoiced billing account arre always billed monthly. 
+=
+### Billing Contracts
+- A BA includes a set of contract, defines on Google payments profile
+- user can manage those contract through GCP console of the payment console 
+
+##### Billing Sub-account 
+- Allows user to group charges from projects together on seprate section of Invoice
+
+= 
+### Relationship between Organization, Projects, billing accounts & payment
+
+1. Ownership refers to Cloud IAM permission inheritance.
+2. payment linkages define, which account pays for a given projetc.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
