@@ -3,11 +3,16 @@
 - Project are logical units which consumes a bunch of resources.
 - The Project associated with account and accounts with organization.
 - Project = Resource + Setting + Metadata
-
+- The Project associated with or defined by 3 piecees of Metadata
+  - name, ID and the number.
+- Project ID is unique & permement.
 
 ## Organization 
+- It is root node in GCP hierarchy (super node)
+- Organizational ID is unique identifier, automatically created.
 
-
+Relationship Project & organization
+![image](https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png)
 
 
 Billing Alert
