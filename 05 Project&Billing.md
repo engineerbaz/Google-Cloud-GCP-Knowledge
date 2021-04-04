@@ -50,7 +50,7 @@
 ##### Billing Sub-account 
 - Allows user to group charges from projects together on seprate section of Invoice
 
-= 
+=
 ### Relationship between Organization, Projects, billing accounts & payment
 
 1. Ownership refers to Cloud IAM permission inheritance.
