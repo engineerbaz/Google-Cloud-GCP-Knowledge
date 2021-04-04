@@ -52,7 +52,12 @@
 1. Ownership refers to Cloud IAM permission inheritance.
 2. payment linkages define, which account pays for a given projetc.
 
+![image](https://user-images.githubusercontent.com/56934817/113522129-a08bc380-95b7-11eb-9e3a-13a754cb32e7.png)
 
+- in diagram, the organizzation hsa owenership over the billing account & project 1,2,3 means it is cloud IAM permission parent of 3 Projects
+- BA is linked to Projects 1,2 &3 
+- The billing account is connected to a google payment profile 
+- Although you can link billing account to project, billing account are not parents of Cloud IAM , so project dont inherit permissions form biling account they are linked to .
 
 
 
