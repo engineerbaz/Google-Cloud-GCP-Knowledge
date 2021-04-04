@@ -33,6 +33,8 @@ It is one of the the market leader of the cloud world.
 ### Project & Billing
   - [05 - Project & Billing](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/05%20Project%26Billing.md)
 
+
+
 ### Virtual Private Cloud 
   - [09 - VPC](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/09%20VirtualPrivateCloud.md) 
 
@@ -57,7 +59,7 @@ It is one of the the market leader of the cloud world.
 
 
 ### Cloud AI & ML Service DNS
-  - [23 - AI_ML](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/24%20DNS.md) 
+  - [23 - AI_ML](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/23%20AI_ML.md) 
 ### Cloud Domain Name Service DNS
   - [24 - DNS](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/24%20DNS.md) 
 
