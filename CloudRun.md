@@ -14,3 +14,8 @@ New follower --> Database --> Cloud Function
 
 Sensor --> Cloud IoT Core --> Pub/Sub --> Cloud Function --> IoT Core ---> Celing Fan 
 
+Storage --> Cloud Function --> Cloud Vision API --> Cloud Function --> Storage
+
+Slack/Messenger/Google Home --> Dailog Flow --> Function --> API 
+
+Text Message --> Twilio
