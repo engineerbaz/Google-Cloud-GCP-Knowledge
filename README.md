@@ -56,8 +56,8 @@ It is one of the the market leader of the cloud world.
   - [21 - Database](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/21%20Database.md) 
 
 
-
-
+### Cloud AI & ML Service DNS
+  - [23 - AI_ML](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/24%20DNS.md) 
 ### Cloud Domain Name Service DNS
   - [24 - DNS](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/24%20DNS.md) 
 
