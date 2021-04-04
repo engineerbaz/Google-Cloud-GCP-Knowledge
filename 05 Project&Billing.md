@@ -11,10 +11,12 @@
 - It is root node in GCP hierarchy (super node)
 - Organizational ID is unique identifier, automatically created.
 
-    ![Relationship Project & organization](https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png)
+  <!---  ![Relationship Project & organization](https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png) --!>
 
+<p align="center"> 
+<img src="https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png">
+</p>
 <img align="center" src="https://user-images.githubusercontent.com/56934817/113521817-51449380-95b5-11eb-9c85-17c49b66c948.png"> 
-
 ## Billing Alert
 - Message with certain amount of billed
 - Can be on project or plan
