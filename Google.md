@@ -36,3 +36,7 @@
 - 23 Regions
 - 70 Zones
 - 141 edge Locations
+- 200+ countries & territories
+- expanding soon 
+  - Jakarta, Poland, Doha, Toronto, Australia, Dehli
+
