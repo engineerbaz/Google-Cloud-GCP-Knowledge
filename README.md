@@ -27,6 +27,9 @@ It is one of the the market leader of the cloud world.
   - [Regions & Avalailblity Zones]()
   - [Projects & Billing]()
   
+### Google Road Map
+  - [01 - GCP RoadMap](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/01%20Google%20Road%20Map.md)
+
 ### GCP Services 
   - [GCP Services]() 
 
