@@ -15,5 +15,4 @@
 - Secure Admin
 - Cloud Shell Pricing - Free 
  
-![GCP Shell]
-(https://lh3.googleusercontent.com/bADt-LplQDbOD3LLXc8nB4zC5GUjV0MCieIWXOUd7j7gaHL2uDuPuZt3kYdl_KoclG4OHTQp26k=e14-w1502)
+![Shell](https://lh3.googleusercontent.com/bADt-LplQDbOD3LLXc8nB4zC5GUjV0MCieIWXOUd7j7gaHL2uDuPuZt3kYdl_KoclG4OHTQp26k=e14-w1502)
