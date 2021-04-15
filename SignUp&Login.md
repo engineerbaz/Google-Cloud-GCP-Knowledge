@@ -21,3 +21,19 @@
 - all resources created will be stopped during trial period
 - data lost in Compute Engine
 - account will be in 30-days grace period, during which you can recover resources and data
+
+## Free Product Limits
+### Exceeding Always Free usuage Limits
+- Any usuage above Always Free usuage limits is automatically billed at standard rate
+- you can help control costs by setting up **Budget & alert** through GCP console
+
+### Premium OS Licences and GCP Marketplace products
+- Charged normally for any GCP Marketplace product & Premium OS Licences, even if your using Compute Engine use is covered by Always Free.
+
+## Smart Product Pricing
+- Google's technical infrastructure is built to let you do more with less. 
+- 60% less for many compute workload compared to other cloud providers
+  - upto 60% saving
+  - 21% sustained use discount
+  - List price difference
+  - 18% right sizing recommendation
