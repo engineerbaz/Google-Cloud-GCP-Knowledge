@@ -40,5 +40,7 @@
 - expanding soon 
   - Jakarta, Poland, Doha, Toronto, Australia, Dehli
 
+### Regions
 ![Region](https://user-images.githubusercontent.com/56934817/114865035-2bb45700-9e0b-11eb-8f57-5ad61bab3627.png)
+#### Networks
 ![Network](https://user-images.githubusercontent.com/56934817/114865054-30790b00-9e0b-11eb-9745-d8689c369ae5.png)
