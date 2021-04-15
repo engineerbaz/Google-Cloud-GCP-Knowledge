@@ -33,10 +33,12 @@
 ## Google Cloud Location 
 - recently added Finland and Hong Kong
 - Google's Private Software Defined Network provides fast & reliable network
-- 23 Regions
-- 70 Zones
-- 141 edge Locations
+- 25 Regions
+- 76 Zones
+- 144 edge Locations
 - 200+ countries & territories
 - expanding soon 
   - Jakarta, Poland, Doha, Toronto, Australia, Dehli
 
+![Region](https://user-images.githubusercontent.com/56934817/114865035-2bb45700-9e0b-11eb-8f57-5ad61bab3627.png)
+![Network](https://user-images.githubusercontent.com/56934817/114865054-30790b00-9e0b-11eb-9745-d8689c369ae5.png)
