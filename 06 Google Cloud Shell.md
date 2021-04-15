@@ -15,6 +15,6 @@
 - Secure Admin
 - Cloud Shell Pricing - Free 
  
-![Shell](https://lh3.googleusercontent.com/bADt-LplQDbOD3LLXc8nB4zC5GUjV0MCieIWXOUd7j7gaHL2uDuPuZt3kYdl_KoclG4OHTQp26k=e14-w1502)
+![Shell](https://lh3.googleusercontent.com/WhS3gyjmk-B3XGdOYtPsnCN6XWkbJPNk4WiTm6wF2RjjANdXcmKjzsPf6WPnvIYlWP_emz55lMYB=e14-w1502)
 
-![sh](https://lh3.googleusercontent.com/x7lhpot7cIbS_dZOGga9RnDap8_kOigefZKd7LjXYgBVvKBfjsDlYM7gmTUc799Y3TCMC--UJw5o=e14-rw-lo-sc0xffffff-w1270)
+![sh](https://lh3.googleusercontent.com/bADt-LplQDbOD3LLXc8nB4zC5GUjV0MCieIWXOUd7j7gaHL2uDuPuZt3kYdl_KoclG4OHTQp26k=e14-w1502)
