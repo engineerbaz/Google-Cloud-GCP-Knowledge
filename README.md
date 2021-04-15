@@ -20,17 +20,13 @@ It is one of the the market leader of the cloud world.
 # GCP Cloud 
 
 ## **Table of Content**
-
-### Google Cloud
-  - [GCP Introduction & Certification ]()
-  - [Cloud Computing Basics, Types & Categories](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
-  - [Regions & Avalailblity Zones]()
-  - [Projects & Billing]()
   
 ### Google Road Map
   - [01 - GCP RoadMap](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/01%20Google%20Road%20Map.md)
 ### Google SignUp & Login
   - [02 - GCP SignUp](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/02%20SignUp%26Login.md)
+### Cloud Computing Basics 
+  - [03 - Cloud Computing](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
 
 ### GCP Services 
   - [GCP Services]() 
