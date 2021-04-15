@@ -33,7 +33,8 @@ It is one of the the market leader of the cloud world.
 
 ### Project & Billing
   - [05 - Project & Billing](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/05%20Project%26Billing.md)
-
+### Google Cloud Shell
+  - [06 - Shell](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/06%20Google%20Cloud%20Shell.md)
 
 
 ### Virtual Private Cloud 
