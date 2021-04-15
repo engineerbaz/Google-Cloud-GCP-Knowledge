@@ -29,7 +29,8 @@ It is one of the the market leader of the cloud world.
   
 ### Google Road Map
   - [01 - GCP RoadMap](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/01%20Google%20Road%20Map.md)
-
+### Google SignUp & Login
+  - [02 - GCP SignUp](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/02%20SignUp%26Login.md)
 
 ### GCP Services 
   - [GCP Services]() 
