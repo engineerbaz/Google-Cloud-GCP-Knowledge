@@ -41,21 +41,16 @@ Gsutil, gcloud & bq
 
 ## Cheat Sheet
 
-[CheatSheet](https://cloud.google.com/sdk/docs/cheatsheet)
+[CheatSheet](https://cloud.google.com/sdk/docs/cheatsheet) </br>
 [Printable PDF](https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf)
 
-SDK is used in local pc (Static)
-Cloud shell is on the way (dynamic availability)
+<object data="https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf" type="application/pdf" width="700px" height="700px">
+  </object>
+
+- SDK is used in local pc (Static) 
+- Cloud shell is on the way (dynamic availability)
 
 
-
+### Commands
 
 `gcloud info = for details`
-
-
-<object data="https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf" type="application/pdf" width="700px" height="700px">
-  <embed src="https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf">
-    <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://cloud.google.com/sdk/docs/images/gcloud-cheat-sheet.pdf">Download PDF</a>.</p>
-  </embed>
-</object>
-
