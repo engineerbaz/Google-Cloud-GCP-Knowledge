@@ -29,7 +29,7 @@ It is one of the the market leader of the cloud world.
   - [03 - Cloud Computing](https://github.com/engineerbaz/AWS-Cloud-Knowledge/blob/master/01b%20Cloud_Computing_Basics.md) 
 
 ### GCP Services 
-  - [GCP Services]() 
+  - [04 - GCP Services]() 
 ### Project & Billing
   - [05 - Project & Billing](https://github.com/engineerbaz/Google-Cloud-GCP-Knowledge/blob/main/05%20Project%26Billing.md)
 ### Google Cloud Shell
