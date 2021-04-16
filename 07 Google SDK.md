@@ -1,7 +1,7 @@
 # Google Cloud SDK
 
 - Command Line interface for GCP
-- SDL= Software Defined Kit
+- SDK= Software Defined Kit
 - **SDK** is a set of tool that can use to manage resource and applications hosted on GCP
 Gsutil, gcloud & bq
 - Command line can be used to access Google Compute ENginer, Google Cloud Storage, Google BiqQuery and others
