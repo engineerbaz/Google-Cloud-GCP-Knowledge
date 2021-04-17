@@ -28,6 +28,9 @@
   2. Role 
   3. Policy
 
+![IAM](https://user-images.githubusercontent.com/56934817/115112976-5a643600-9fa1-11eb-9d60-67cf8350668a.png)
+
+
 ## 1. Identity Member Types
 user grant access to members
 - Google account
