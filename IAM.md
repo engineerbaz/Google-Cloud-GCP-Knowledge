@@ -2,18 +2,23 @@
 # IAM
 - **Identity & Access Management**
 - For granting fine-grained access control to resources within a project
-- Gives ability to grant fine-grained access control to resources within a project
-
-Simplicity
-Enterprise-grade ACL 
-Builtin 
-Right roles
+- Gives ability to grant fine-grained access control to resources within a project 
+- Allows compartmentalize access based on workgroups and to manage sensitive resources around individual access needs
+- Simplicity
+- Enterprise-grade ACL 
+  - Unified view into security policy across entire organization
+- Enterprise Identity made easy
+  - Easily create or sync user accouns across application and Projects
+  - Easy to provision and manage users and group,set up single sign-on (SSO) and configure Multi-factor authentication directly form your googel admin console
+- Right roles
+  - RR to manage resource permission with minimum fuss and high automation.
+  - Map job function within ur compaany to group and role
 Granular resource control
 Context aware access
 Built-in audit trail
 Access control your way
-
 # Concept
+
 Offers Cloud IAM , let you manage access control by defining WHO (identity) has WHAT access (role) for WHICH resource
 
 ## Identity Member Types
