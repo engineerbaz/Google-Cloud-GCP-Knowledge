@@ -23,8 +23,12 @@
 # Concept
 - GCP offers Cloud IAM , let you manage access control by defining WHO (identity) has WHAT access (role) for WHICH resource
 - lets user adopt the security principle of least priviledge, so user grant only the necessary access to user resouce.
+- This model for access management has three main parts
+  1. Member
+  2. Role 
+  3. Policy
 
-## Identity Member Types
+## 1. Identity Member Types
 user grant access to members
 - Google account
   - For developer, admins or any person with google ID 
@@ -38,7 +42,7 @@ user grant access to members
 - Cloud Identity domain 
   - Its like G suite account but dont have access of G Suite application & features
 
-## Cloud Identity Domain 
+### Cloud Identity Domain 
 - all AuthenticatedUsers
   - Special identifier that represents anyone **who is authenticated with a Google account** or a service account 
   - Un-auth users are not not included
@@ -54,11 +58,11 @@ When an authenticated user attempted to access resource, cloud IAM checks Resour
   - Represented as <service>.<resource>.<verb>
   - pubsub.subscriptions.consume
 
-### Role 
+## 2. Role 
 - A role is collections of permission. 
 - Cant be assigned to user directly
 
-## Types of Cloud IAM Roles
+### Types of Cloud IAM Roles
 - **Primitive roles**
   - Roles historically available in GCP console
   - Like Owner, editor , Browser and viewer
@@ -70,6 +74,7 @@ When an authenticated user attempted to access resource, cloud IAM checks Resour
 - **Custom role**
   - Roles that you create to tailor permission to the needs of your organization
 
+## 3. Policy
 - Grant roles to users by creating a cloud IAM policy(collection of statements taht define who has what type of access)
 - A policy is attached to a resource and is used to enforce access control  whenever that resource is accessed .
 - GCP resources are organized hierarchically, where the organization node is the root node
