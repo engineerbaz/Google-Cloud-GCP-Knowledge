@@ -13,7 +13,7 @@
 - Right roles
   - RR to manage resource permission with minimum fuss and high automation.
   - Map job function within ur compaany to group and role
-Granular resource control
+- Granular resource control
 Context aware access
 Built-in audit trail
 Access control your way
