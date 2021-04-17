@@ -70,5 +70,6 @@ It is one of the the market leader of the cloud world.
 
 
 ---
-* IAM 
+* IAM compare with AWS
 * Database
+* IAM and policy APIs
