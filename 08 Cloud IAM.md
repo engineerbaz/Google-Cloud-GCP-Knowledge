@@ -93,3 +93,5 @@ When an authenticated user attempted to access resource, cloud IAM checks Resour
 - If parent policy less restrictive, it overrides more restrictive resource policy
 
 ![Resource hierarchy](https://user-images.githubusercontent.com/56934817/115113123-0efe5780-9fa2-11eb-8449-3a3cf7340052.png)
+
+![image](https://user-images.githubusercontent.com/56934817/115113212-acf22200-9fa2-11eb-99ac-56b3caecb6d4.png)
