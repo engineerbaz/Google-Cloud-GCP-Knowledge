@@ -83,6 +83,8 @@ When an authenticated user attempted to access resource, cloud IAM checks Resour
 - GCP resources are organized hierarchically, where the organization node is the root node
 - Projects are the children of the organization
 
+![Policy](https://user-images.githubusercontent.com/56934817/115113045-ba5adc80-9fa1-11eb-876d-4e2f6ede5c76.png)
+
 ## IAM Resource Hierarchy 
 - The policy is set on a resource
 - Each policy contains, set of roles, role member
